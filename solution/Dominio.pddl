@@ -2,7 +2,7 @@
  (:requirements :strips :typing :equality :conditional-effects)
  (:types celda)
  (:constants
-   o__0_0_ o__1_2_ o__0_2_ o__1_1_ o__2_0_ o__2_1_ o__0_1_ o__2_2_ o__1_0_ - celda
+   o__0_2_ o__0_0_ o__1_1_ o__1_2_ o__2_2_ o__1_0_ o__2_0_ o__2_1_ o__0_1_ - celda
  )
  (:predicates (estado ?c - celda) (vecino ?c1 - celda ?c2 - celda))
  (:action pulsar
